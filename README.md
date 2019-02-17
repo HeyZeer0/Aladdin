@@ -39,7 +39,7 @@ Pull Request
 All pull requests are welcome, I'll analyse it and if it fits in the main purpose of the bot I'll implement it.
 If you are going to create something with text, don't forget to use the lang system.
 
-All help are welcome =)
+All help is welcome =)
 
 License
 ========
